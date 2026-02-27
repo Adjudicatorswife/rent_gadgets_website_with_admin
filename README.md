@@ -182,4 +182,4 @@ define('BASE_URL', 'http://localhost/relapse');
 
 ---
 
-*RELAPSE © 2024 - Premium Gadget Rental System*
+
